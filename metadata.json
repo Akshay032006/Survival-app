@@ -1,0 +1,6 @@
+{
+  "name": "Survival",
+  "description": "AI-powered one-stop location assistant for people who are visiting, moving to, or temporarily staying in an unfamiliar place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
